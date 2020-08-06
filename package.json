@@ -1,0 +1,27 @@
+{
+  "name": "NLW-02",
+  "version": "1.0.0",
+  "description": "Projeto desenvolvido na duranta a segunda semana NEXT LEVEL WEEK da ROCKSEAT",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felipemimoura/NLW-02.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/felipemimoura/NLW-02/issues"
+  },
+  "homepage": "https://github.com/felipemimoura/NLW-02#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
