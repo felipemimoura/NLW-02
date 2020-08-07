@@ -1,5 +1,5 @@
 {
-  "name": "NLW-02",
+  "name": "nlw-02",
   "version": "1.0.0",
   "description": "Projeto desenvolvido na duranta a segunda semana NEXT LEVEL WEEK da ROCKSEAT",
   "main": "index.js",
@@ -19,7 +19,8 @@
   "homepage": "https://github.com/felipemimoura/NLW-02#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "nunjucks": "^3.2.2"
+    "nunjucks": "^3.2.2",
+    "sqlite-async": "^1.1.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.4"
